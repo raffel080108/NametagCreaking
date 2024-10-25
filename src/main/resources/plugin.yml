@@ -1,0 +1,4 @@
+name: NametagCreaking
+version: '1.0'
+main: raffel080108.nametagCreaking.NametagCreaking
+api-version: '1.21.3'
